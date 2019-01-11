@@ -11,7 +11,7 @@ from django.db.models.functions import Concat
 
 from paradigma.utilities import list_reports
 
-
+# Metodos
 def List(dto_drml):
     db_query = Personas.objects
     int_total_rows = db_query.count()
