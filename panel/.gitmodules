@@ -1,0 +1,36 @@
+[submodule "src/auth"]
+	path = src/auth
+	url = git@PDSGIT:/react/ReactComponents/v2/auth.git
+	branch = release
+[submodule "src/AuthenticatedRoute"]
+	path = src/AuthenticatedRoute
+	url = git@PDSGIT:/react/ReactComponents/authenticatedroute.git
+	branch = release
+[submodule "src/components/Sidebar"]
+	path = src/components/Sidebar
+	url = git@PDSGIT:/react/ReactComponents/paradigmasidebarwithbuttons.git
+	branch = release
+[submodule "src/components/ParadigmaModal"]
+	path = src/components/ParadigmaModal
+	url = git@PDSGIT:/react/ReactComponents/v2/paradigmamodal.git
+	branch = release
+[submodule "src/components/ParadigmaAsyncSeeker"]
+	path = src/components/ParadigmaAsyncSeeker
+	url = git@PDSGIT:/react/ReactComponents/v2/paradigmaasyncseeker.git
+	branch = release
+[submodule "src/components/ParadigmaTable"]
+	path = src/components/ParadigmaTable
+	url = git@PDSGIT:/react/ReactComponents/v2/paradigmatable.git
+	branch = release
+[submodule "src/components/ParadigmaLabeledInput"]
+	path = src/components/ParadigmaLabeledInput
+	url = git@PDSGIT:/react/ReactComponents/v2/paradigmalabeledinput.git
+	branch = release
+[submodule "src/views/Usuarios"]
+	path = src/views/Usuarios
+	url = git@PDSGIT:/react/ReactComponents/v2/Usuarios/basico.git
+	branch = release
+[submodule "src/components/ShortcutsBar"]
+	path = src/components/ShortcutsBar
+	url = git@PDSGIT:/react/ReactComponents/paradigmashortcutsbar.git
+	branch = release

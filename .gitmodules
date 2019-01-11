@@ -1,0 +1,12 @@
+[submodule "api/users"]
+	path = api/users
+	url = git@PDSGIT:/django/Modulos/v2/Usuarios/basico_sin_documento.git
+	branch = release
+[submodule "api/paradigma"]
+	path = api/paradigma
+	url = git@PDSGIT:/django/Modulos/v2/utilities.git
+	branch = release
+[submodule "panel"]
+	path = panel
+	url = git@PDSGIT:/react/adminbase.git
+	branch = release

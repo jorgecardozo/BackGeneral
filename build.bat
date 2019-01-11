@@ -1,0 +1,1 @@
+cd panel & npm run-script build & cd .. & del .\api\static\* /s /q & xcopy .\panel\build .\api\static\public\ /s /e /y

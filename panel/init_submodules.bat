@@ -1,0 +1,1 @@
+start cmd /k "git submodule init & git submodule sync & git submodule update & git submodule foreach git checkout release & exit"
